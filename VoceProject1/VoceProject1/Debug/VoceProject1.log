@@ -1,0 +1,24 @@
+﻿Build started 2017-06-05 13:08:03.
+     1>Project "G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\VoceProject1\VoceProject1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\MicrosoftSoftware\Microsoft Visual Studio\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Java\jdk1.6.0_45\include" /I"C:\Program Files (x86)\Java\jdk1.6.0_45\include\win32" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(87): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(91): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(92): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(106): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(112): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(113): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(114): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(115): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\main.cpp(127): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         G:\MicrosoftSoftware\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\Debug\VoceProject1.exe" /INCREMENTAL /NOLOGO "C:\Program Files (x86)\Java\jdk1.6.0_45\lib\jvm.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\Debug\VoceProject1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\Debug\VoceProject1.lib" /MACHINE:X86 Debug\main.obj
+         Debug\wav.obj
+         VoceProject1.vcxproj -> G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\Debug\VoceProject1.exe
+     1>Done Building Project "G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\VoceProject1\VoceProject1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.40

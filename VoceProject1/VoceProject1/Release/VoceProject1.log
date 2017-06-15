@@ -1,0 +1,11 @@
+﻿Build started 2017-05-12 10:23:51.
+     1>Project "G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\VoceProject1\VoceProject1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         G:\MicrosoftSoftware\Microsoft Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\studia w4\informatyka w gospodarce projekt\voce\voceproject1\voceproject1\voce.h(34): fatal error C1083: Cannot open include file: 'jni.h': No such file or directory
+     1>Done Building Project "G:\STUDIA W4\Informatyka w gospodarce PROJEKT\VOCE\VoceProject1\VoceProject1\VoceProject1.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.15

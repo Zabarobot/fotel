@@ -1,0 +1,20 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Digits Grammar file
+ */
+
+grammar seat;
+
+public <miscellaneous> = (exit);
+
+public <command> = ( stop | <seat>);
+
+public <seat> = seat <function>;
+
+public <function> = (move <movedir> | lean <leandir> | raise heat by <numbers>);
+
+public <movedir> = (left | right | up | down | forward | back );
+public <leandir> = (forward | back) <numbers>;
+public <numbers> = (zero | one | two | three | four | five | six | seven | eight | nine | ten | eleven | twelve | fourteen) * <what>  ;
+public <what> = (centimeters | degrees) ;
